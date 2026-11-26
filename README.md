@@ -1,8 +1,8 @@
 ## Screenshots
 
-<img src="https://github.com/shrisj-sj/restaurantBookingApp/blob/main/client/src/assets/Screenshot1.png" alt="App Screenshot" width="550"/>
-<img src="https://github.com/shrisj-sj/restaurantBookingApp/blob/main/client/src/assets/Screenshot2.png" alt="App Screenshot" width="550"/>
-<img src="https://github.com/shrisj-sj/restaurantBookingApp/blob/main/client/src/assets/Screenshot3.png" alt="App Screenshot" width="550"/>
+<img src="https://github.com/shrisj-sj/RestaurantApp/blob/main/client/src/assets/Screenshot1.png" alt="App Screenshot" width="550"/>
+<img src="https://github.com/shrisj-sj/RestaurantApp/blob/main/client/src/assets/Screenshot2.png" alt="App Screenshot" width="550"/>
+<img src="https://github.com/shrisj-sj/RestaurantApp/blob/main/client/src/assets/Screenshot3.png" alt="App Screenshot" width="550"/>
 
 # Getting Started with Create React App
 
